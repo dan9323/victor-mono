@@ -2,6 +2,14 @@
 
 ## Notes on fonts in crostini.
 
+### Get and install font
+
+1. Download the font, e.g. from https://rubjo.github.io/victor-mono/VictorMonoAll.zip.
+2. Copy the OTF files to ~/.fonts
+3. run `fc-cache -fv` ("force and verbose")
+
+### Update font for terminal
+
 1. Create fork of https://github.com/rubjo/victor-mono to use the css and fonts
   without silent interference.
 2. Create github page at https://dan9323.github.io/victor-mono/ to host css.
