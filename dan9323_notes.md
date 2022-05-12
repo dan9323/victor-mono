@@ -22,3 +22,11 @@
     ```
 
 ## Notes on vscode under crostini
+
+1. Go to settings. I'm using the font
+
+    `'Victor Mono', 'Droid Sans Mono', 'monospace', monospace`
+    
+2. Search for "ligature", and change the json with
+
+    `"editor.fontLigatures": true`
