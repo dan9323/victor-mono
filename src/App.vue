@@ -127,7 +127,7 @@
               &gt;-&gt; &gt;&gt;- &lt;&lt;- &lt;-&gt; -&gt;&gt; -&lt;&lt; &lt;-&lt;
               ==&gt; =&gt; =/= !== != &lt;==
               &gt;&gt;= =&gt;&gt; &gt;=&gt; &lt;=&gt; &lt;=&lt; =&lt;= =&gt;= &lt;&lt;= =&lt;&lt;
-              .- .= =:= =!= == === :: := :&gt; :&lt; &gt;: ;;
+              .- .= =:= =!= == === :: := :&gt; :&lt; &gt;: &lt;: ;;
               &lt;| &lt;|&gt; |&gt; &lt;&gt;
               &lt;$ &lt;$&gt; $&gt; &lt;+ &lt;+&gt; +&gt;
               ?= /= /== /\ \/ __ && ++ +++
@@ -140,7 +140,7 @@
               &gt;-&gt; &gt;&gt;- &lt;&lt;- &lt;-&gt; -&gt;&gt; -&lt;&lt; &lt;-&lt;
               ==&gt; =&gt; =/= !== != &lt;==
               &gt;&gt;= =&gt;&gt; &gt;=&gt; &lt;=&gt; &lt;=&lt; =&lt;= =&gt;= &lt;&lt;= =&lt;&lt;
-              .- .= =:= =!= == === :: := :&gt; :&lt; &gt;: ;;
+              .- .= =:= =!= == === :: := :&gt; :&lt; &gt;: &lt;: ;;
               &lt;| &lt;|&gt; |&gt; &lt;&gt;
               &lt;$ &lt;$&gt; $&gt; &lt;+ &lt;+&gt; +&gt;
               ?= /= /== /\ \/ __ && ++ +++
@@ -259,24 +259,9 @@
           :sm="18"
         >
           <p>
-            <del>
-              If you try it out and like it, I would be very grateful for any
-              donations. It means I can cover some costs for software and time
-              spent - and keep refining and extending the font.
-            </del>
-          </p>
-          <p>
-            Instead of donating to me, please consider
-            <a
-              target="_blank"
-              href="https://stand-with-ukraine.pp.ua/"
-            >
-              ways of supporting the Ukrainian population or the Russian
-              opposition</a>
-            after that smirking, old dictator of a declining
-            ex-great power decided to use lies, propaganda and internal
-            repression to make one people start attacking their brothers,
-            sisters and children.
+            If you try it out and like it, I would be very grateful for any
+            donations. It means I can cover some costs for software and time
+            spent - and keep refining and extending the font.
           </p>
         </el-col>
       </el-row>
@@ -583,19 +568,22 @@
             Stuart Morris
           </div>
           <div class="centre supporter">
+            Jonathan Riboux
+          </div>
+          <div class="centre supporter">
             RKC
           </div>
           <div class="centre supporter">
             Lars Rönnbäck
           </div>
           <div class="centre supporter">
-            Michael Schore
-          </div>
-          <div class="centre supporter">
             Robert Ruf
           </div>
           <div class="centre supporter">
             Benno Schmidt
+          </div>
+          <div class="centre supporter">
+            Michael Schore
           </div>
           <div class="centre supporter">
             Christoph Siedentop
@@ -652,6 +640,9 @@
           </div>
           <div class="centre supporter">
             Élise Duverdier
+          </div>
+          <div class="centre supporter">
+            Michael Fairman
           </div>
           <div class="centre supporter">
             Lady Isak Grozny
